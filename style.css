@@ -1,0 +1,33 @@
+body{
+    background-color: dimgray;
+    padding-left: 3px;
+    margin-top: 10px;
+}
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 8px 8px 10px;
+    -moz-text-decoration-color: bisque;
+}
+p{
+    text-align: center;
+}
+h2{
+    font-size: xx-large;
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+}
+h3{
+    font-size: x-large;
+    font-style: normal;
+    text-align: center;
+    text-decoration: double;
+
+}
+h4{
+    font-size: x-large;
+    font-style: inherit;
+    text-align: center;
+}
